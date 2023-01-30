@@ -12,7 +12,7 @@ Idioma: ASM - C
 
 
 
-*PRACTICA 01*
+*PARCIAL 01*
 
     Libreria para implementacion de retardos --> La frecuencia del oscilador es de 4 MHZ, entonces 1Tcy = 1us
     
@@ -24,3 +24,6 @@ Idioma: ASM - C
       
       P2-Display_7SEG.s --> permita mostrar los valores alfanuméricos (0-9 y AF) en un display de 7 segmentos ánodo común
       
+*PARCIAL 02*
+
+    EJERCICIO 2 --> Codigo utilizando el boton de la placa y ejecutando una secuencia
